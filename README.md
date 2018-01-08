@@ -4,6 +4,7 @@ Plugin for working with gauge and neovim
 # Pre-Requisites
 
 * [Neovim](https://neovim.io/)
+* Python and `pip3 install neovim`
 * [vim-plug](https://github.com/junegunn/vim-plug)
 * [Language server client](https://github.com/autozimu/LanguageClient-neovim)
 
